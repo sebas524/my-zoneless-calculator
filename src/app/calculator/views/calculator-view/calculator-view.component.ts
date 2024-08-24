@@ -12,7 +12,4 @@ import {CalculatorComponent} from "../../components/calculator/calculator.compon
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class CalculatorViewComponent {
-
-
-
 }
