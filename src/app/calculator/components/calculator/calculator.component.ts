@@ -12,5 +12,4 @@ import {CalculatorButtonComponent} from "../calculator-button/calculator-button.
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class CalculatorComponent {
-
 }
